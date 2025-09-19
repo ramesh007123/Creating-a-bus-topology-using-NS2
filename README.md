@@ -27,7 +27,9 @@ and dropping queue mechanism.
 * STEP 12: Create the traffic generator CBR for the source and destination files. 
 * STEP 13: Define the plot window and finish procedure. 
 * STEP 14: In the definition of the finish procedure declare the global variables. 
-STEP 15: Close the trace file and namefile and execute the network animation 
-file. STEP 16: At the particular time call the finish procedure. 
-STEP 17: Stop the program.
-<img width="1210" height="984" alt="NS2 bus topology" https://1drv.ms/i/c/1f2f7a21553b549b/ERFfbdEwTE9PjSVKSf4FiXYB3tZ2mL3muL6WPOlcNwxwUw?e=0VfnNW />
+* STEP 15: Close the trace file and namefile and execute the network animation 
+file.
+* STEP 16: At the particular time call the finish procedure. 
+* STEP 17: Stop the program.
+
+* https://1drv.ms/i/c/1f2f7a21553b549b/ERFfbdEwTE9PjSVKSf4FiXYB3tZ2mL3muL6WPOlcNwxwUw?e=0VfnNW />
