@@ -30,3 +30,4 @@ and dropping queue mechanism.
 STEP 15: Close the trace file and namefile and execute the network animation 
 file. STEP 16: At the particular time call the finish procedure. 
 STEP 17: Stop the program.
+"C:\Users\Latha\OneDrive\Pictures\Screenshots\NS2 Bus topology.png"
