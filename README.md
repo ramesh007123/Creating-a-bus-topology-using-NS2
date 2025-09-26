@@ -32,4 +32,4 @@ file.
 * STEP 16: At the particular time call the finish procedure. 
 * STEP 17: Stop the program.
 
-*![Ns2 Bus Topology](path/to/your-image-NS2 Bus topology .png)
+*![Ns2 Bus Topology](NS2 Bus topology.png)
