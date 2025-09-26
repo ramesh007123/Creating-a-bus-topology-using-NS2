@@ -32,4 +32,4 @@ file.
 * STEP 16: At the particular time call the finish procedure. 
 * STEP 17: Stop the program.
 
-* https://1drv.ms/i/c/1f2f7a21553b549b/ERFfbdEwTE9PjSVKSf4FiXYB3tZ2mL3muL6WPOlcNwxwUw?e=0VfnNW />
+*![Ns2 Bus Topology](path/to/your-image-NS2 Bus topology .png)
