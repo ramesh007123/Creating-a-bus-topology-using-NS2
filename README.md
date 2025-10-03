@@ -33,6 +33,7 @@ file.
 * STEP 17: Stop the program.
 
 OUTPUT:
-![Scrreenshot 2025-10-03 at 09 28 44_58766e68](https://github.com/user-attachments/assets/50a96229-5390-47c2-ab01-43eee20aff69)
+![Scrreenshot 2025-10-03 at 09 28 44_58766e68](https://github.com/user-attachments/assets/6038da84-c806-4f6b-982f-eab25534f4f0)
+
 
 
